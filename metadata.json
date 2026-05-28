@@ -1,0 +1,6 @@
+{
+  "name": "Oak & Flame",
+  "description": "An exquisite fine-dining restaurant featuring spectacular wood-fired gastronomy, curated menus, an immersive interactive cellar pairing, and online table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
